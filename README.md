@@ -19,7 +19,7 @@ A review of the implemented classes:
                    a). On average it takes around 4000 epochs to reach a total error of less than 0.05. Of 35 trials.   
                    b). Of 35 trials, 5 were observed not to converge and were discarded.    
                    c). Of the remaining 30 the average was 4000, the min was 2536 and the max was 6788.  
-                   ![total squared error for binary representation of XOR problem](binary.png)  
+                   ![total squared error for binary representation of XOR problem](binary.png)   
                  
                 
 

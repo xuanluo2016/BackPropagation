@@ -6,7 +6,7 @@ A review of the implemented classes:
                  Child class BPBinary extends parent class BP and overrides the outputFor and computeDelta function so as to use the 
                  customSigmoid function in outputFor and use a different delta.
   
-![class inheritance]("class_inheritance".png)
+![class inheritance](class_inheritance.png)
 
 3. Class TestBPBipolar: test class to train and test the BackPropagation algorithm with bipolar case. 
                  By running TestBPBipolar, the following result is expected:
